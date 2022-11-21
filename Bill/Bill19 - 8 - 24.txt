@@ -1,0 +1,13 @@
+					  SabbyDoof Store
+				 Amity University Rajasthan
+				     Phone-:1122334455
+					   Invoice No.-:143
+				      19 - 8 - 24
+
+		------------------------------------------------------
+	     Sno.		Product Name		Quantity	Total
+	     1		A & W FRUIT JUICE		1		60		
+	     2		APPLE PIE		1		15		
+	     3		BISCUITS CHOCOLATE		1		15		
+	     4		BROWNIES		1		50		
+	     5		BUNS		1		40		

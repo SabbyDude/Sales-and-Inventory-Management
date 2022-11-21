@@ -1,0 +1,12 @@
+					  SabbyDoof Store
+				 Amity University Rajasthan
+				     Phone-:1122334455
+					   Invoice No.-:142
+				      19 - 6 - 34
+
+		------------------------------------------------------
+	     Sno.		Product Name		Quantity	Total
+	     1		CHEESE		1		50		
+	     2		GARLIC CHESSE BREAD		1		15		
+	     3		MAGGI ATA		1		25		
+	     4		MOZLLA CHESSE		1		20		
